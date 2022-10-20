@@ -1,0 +1,40 @@
+
+#intro { 
+   /*
+
+        background-image: url('https://external-preview.redd.it/xjqc0RVfYkKNaPJMcWtoJIEE3b99vya5Xsaop12Kals.jpg?auto=webp&s=0d21913c8aa7c7f26c593f66cb54f9f4ed0c01d9');
+
+    background-image: url('https://w0.peakpx.com/wallpaper/973/308/HD-wallpaper-colorful-smoke-computer-technology-art-beautiful-abstract-illustration-artwork-painting-wide-screen-computer-graphics.jpg');
+       */
+    background-image: url('https://w0.peakpx.com/wallpaper/629/80/HD-wallpaper-colorful-landscape-illustration-ultra-aero-vector-art-illustration-colorful-landscape-lake-mountains-colourful.jpg');
+
+    height: 100%; 
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#pic1 {
+    max-height: 600px;
+    max-width: 600px;
+}
+
+#pic2 {
+    max-height: 600px;
+    max-width: 600px;
+}
+
+#headshot {
+    
+    max-height: 300px;
+    max-width: 300px;
+}
+
+h2 {
+    font-family:sans-serif;
+    font-style: italic;
+}
+
+h4 {
+    font-family: sans-serif
+}
