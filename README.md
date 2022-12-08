@@ -1,7 +1,7 @@
 # Portfolio of Philip Pione
 
 ## Description
-A personal portfolio that shows a few of me skills have grown as a developer.  
+A personal portfolio that shows basic information about me and some of my projects.  
 
 
 Please feel free to contact me with any questions via email or LinkedIn.
